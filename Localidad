@@ -1,0 +1,1952 @@
+[
+    {
+        "Localidad": "Mar del Plata",
+        "Provincia": "Buenos Aires",
+        "Latitud": -38.0,
+        "Longitud": -57.55
+    },
+    {
+        "Localidad": "Lan\u00fas",
+        "Provincia": "Buenos Aires",
+        "Latitud": -34.7,
+        "Longitud": -58.4
+    },
+    {
+        "Localidad": "Bah\u00eda Blanca",
+        "Provincia": "Buenos Aires",
+        "Latitud": -38.7167,
+        "Longitud": -62.2667
+    },
+    {
+        "Localidad": "Pilar",
+        "Provincia": "Buenos Aires",
+        "Latitud": -34.45,
+        "Longitud": -58.9167
+    },
+    {
+        "Localidad": "Quilmes",
+        "Provincia": "Buenos Aires",
+        "Latitud": -34.7167,
+        "Longitud": -58.2667
+    },
+    {
+        "Localidad": "Merlo",
+        "Provincia": "Buenos Aires",
+        "Latitud": -34.6653,
+        "Longitud": -58.7275
+    },
+    {
+        "Localidad": "Gonz\u00e1lez Cat\u00e1n",
+        "Provincia": "Buenos Aires",
+        "Latitud": -34.7667,
+        "Longitud": -58.6167
+    },
+    {
+        "Localidad": "Banfield",
+        "Provincia": "Buenos Aires",
+        "Latitud": -34.75,
+        "Longitud": -58.3833
+    },
+    {
+        "Localidad": "Jos\u00e9 C. Paz",
+        "Provincia": "Buenos Aires",
+        "Latitud": -34.5167,
+        "Longitud": -58.7667
+    },
+    {
+        "Localidad": "La Plata",
+        "Provincia": "Buenos Aires",
+        "Latitud": -34.9211,
+        "Longitud": -57.9544
+    },
+    {
+        "Localidad": "Isidro Casanova",
+        "Provincia": "Buenos Aires",
+        "Latitud": -34.7,
+        "Longitud": -58.5833
+    },
+    {
+        "Localidad": "Berazategui",
+        "Provincia": "Buenos Aires",
+        "Latitud": -34.7167,
+        "Longitud": -58.25
+    },
+    {
+        "Localidad": "San Fernando",
+        "Provincia": "Buenos Aires",
+        "Latitud": -34.45,
+        "Longitud": -58.5667
+    },
+    {
+        "Localidad": "Jos\u00e9 Mar\u00eda Ezeiza",
+        "Provincia": "Buenos Aires",
+        "Latitud": -34.8333,
+        "Longitud": -58.5167
+    },
+    {
+        "Localidad": "San Nicol\u00e1s de los Arroyos",
+        "Provincia": "Buenos Aires",
+        "Latitud": -33.3333,
+        "Longitud": -60.2167
+    },
+    {
+        "Localidad": "San Miguel",
+        "Provincia": "Buenos Aires",
+        "Latitud": -34.5333,
+        "Longitud": -58.7167
+    },
+    {
+        "Localidad": "Rafael Castillo",
+        "Provincia": "Buenos Aires",
+        "Latitud": -34.7167,
+        "Longitud": -58.6167
+    },
+    {
+        "Localidad": "Florencio Varela",
+        "Provincia": "Buenos Aires",
+        "Latitud": -34.8167,
+        "Longitud": -58.2833
+    },
+    {
+        "Localidad": "San Justo",
+        "Provincia": "Buenos Aires",
+        "Latitud": -34.6833,
+        "Longitud": -58.55
+    },
+    {
+        "Localidad": "Ituzaing\u00f3",
+        "Provincia": "Buenos Aires",
+        "Latitud": -34.6667,
+        "Longitud": -58.6667
+    },
+    {
+        "Localidad": "Temperley",
+        "Provincia": "Buenos Aires",
+        "Latitud": -34.7667,
+        "Longitud": -58.3833
+    },
+    {
+        "Localidad": "Ramos Mej\u00eda",
+        "Provincia": "Buenos Aires",
+        "Latitud": -34.65,
+        "Longitud": -58.5667
+    },
+    {
+        "Localidad": "Lomas de Zamora",
+        "Provincia": "Buenos Aires",
+        "Latitud": -34.7667,
+        "Longitud": -58.4
+    },
+    {
+        "Localidad": "Bernal",
+        "Provincia": "Buenos Aires",
+        "Latitud": -34.7,
+        "Longitud": -58.2833
+    },
+    {
+        "Localidad": "Esteban Echeverr\u00eda",
+        "Provincia": "Buenos Aires",
+        "Latitud": -34.8167,
+        "Longitud": -58.4667
+    },
+    {
+        "Localidad": "Castelar",
+        "Provincia": "Buenos Aires",
+        "Latitud": -34.6667,
+        "Longitud": -58.6667
+    },
+    {
+        "Localidad": "Luj\u00e1n",
+        "Provincia": "Buenos Aires",
+        "Latitud": -34.5667,
+        "Longitud": -59.1
+    },
+    {
+        "Localidad": "Pergamino",
+        "Provincia": "Buenos Aires",
+        "Latitud": -33.8833,
+        "Longitud": -60.5667
+    },
+    {
+        "Localidad": "Libertad",
+        "Provincia": "Buenos Aires",
+        "Latitud": -34.6833,
+        "Longitud": -58.6833
+    },
+    {
+        "Localidad": "Mor\u00f3n",
+        "Provincia": "Buenos Aires",
+        "Latitud": -34.65,
+        "Longitud": -58.6167
+    },
+    {
+        "Localidad": "Burzaco",
+        "Provincia": "Buenos Aires",
+        "Latitud": -34.8167,
+        "Longitud": -58.3667
+    },
+    {
+        "Localidad": "Z\u00e1rate",
+        "Provincia": "Buenos Aires",
+        "Latitud": -34.0833,
+        "Longitud": -59.0333
+    },
+    {
+        "Localidad": "Caseros",
+        "Provincia": "Buenos Aires",
+        "Latitud": -34.6106,
+        "Longitud": -58.5625
+    },
+    {
+        "Localidad": "Villa Luzuriaga",
+        "Provincia": "Buenos Aires",
+        "Latitud": -34.6595,
+        "Longitud": -58.5833
+    },
+    {
+        "Localidad": "Ciudad General Belgrano",
+        "Provincia": "Buenos Aires",
+        "Latitud": -34.7167,
+        "Longitud": -58.5333
+    },
+    {
+        "Localidad": "San Francisco Solano",
+        "Provincia": "Buenos Aires",
+        "Latitud": -34.7667,
+        "Longitud": -58.3167
+    },
+    {
+        "Localidad": "Necochea",
+        "Provincia": "Buenos Aires",
+        "Latitud": -38.55,
+        "Longitud": -58.7333
+    },
+    {
+        "Localidad": "Olavarr\u00eda",
+        "Provincia": "Buenos Aires",
+        "Latitud": -36.9,
+        "Longitud": -60.3333
+    },
+    {
+        "Localidad": "Berisso",
+        "Provincia": "Buenos Aires",
+        "Latitud": -34.8728,
+        "Longitud": -57.8858
+    },
+    {
+        "Localidad": "Campana",
+        "Provincia": "Buenos Aires",
+        "Latitud": -34.1667,
+        "Longitud": -58.9167
+    },
+    {
+        "Localidad": "Jun\u00edn",
+        "Provincia": "Buenos Aires",
+        "Latitud": -34.5833,
+        "Longitud": -60.95
+    },
+    {
+        "Localidad": "General Rodr\u00edguez",
+        "Provincia": "Buenos Aires",
+        "Latitud": -34.6167,
+        "Longitud": -58.95
+    },
+    {
+        "Localidad": "Grand Bourg",
+        "Provincia": "Buenos Aires",
+        "Latitud": -34.4833,
+        "Longitud": -58.7167
+    },
+    {
+        "Localidad": "Monte Chingolo",
+        "Provincia": "Buenos Aires",
+        "Latitud": -34.7333,
+        "Longitud": -58.35
+    },
+    {
+        "Localidad": "Remedios de Escalada",
+        "Provincia": "Buenos Aires",
+        "Latitud": -34.7167,
+        "Longitud": -58.4
+    },
+    {
+        "Localidad": "Ezpeleta",
+        "Provincia": "Buenos Aires",
+        "Latitud": -34.7517,
+        "Longitud": -58.2344
+    },
+    {
+        "Localidad": "San Pedro",
+        "Provincia": "Buenos Aires",
+        "Latitud": -33.6792,
+        "Longitud": -59.6669
+    },
+    {
+        "Localidad": "Ciudadela",
+        "Provincia": "Buenos Aires",
+        "Latitud": -34.6333,
+        "Longitud": -58.5333
+    },
+    {
+        "Localidad": "Bella Vista",
+        "Provincia": "Buenos Aires",
+        "Latitud": -34.5333,
+        "Longitud": -58.6667
+    },
+    {
+        "Localidad": "Lomas del Mirador",
+        "Provincia": "Buenos Aires",
+        "Latitud": -34.6667,
+        "Longitud": -58.5297
+    },
+    {
+        "Localidad": "Wilde",
+        "Provincia": "Buenos Aires",
+        "Latitud": -34.7,
+        "Longitud": -58.3167
+    },
+    {
+        "Localidad": "Mart\u00ednez",
+        "Provincia": "Buenos Aires",
+        "Latitud": -34.4833,
+        "Longitud": -58.5
+    },
+    {
+        "Localidad": "Don Torcuato",
+        "Provincia": "Buenos Aires",
+        "Latitud": -34.5,
+        "Longitud": -58.6167
+    },
+    {
+        "Localidad": "Gerli",
+        "Provincia": "Buenos Aires",
+        "Latitud": -34.6833,
+        "Longitud": -58.3667
+    },
+    {
+        "Localidad": "Mercedes",
+        "Provincia": "Buenos Aires",
+        "Latitud": -34.65,
+        "Longitud": -59.4333
+    },
+    {
+        "Localidad": "Villa Dom\u00ednico",
+        "Provincia": "Buenos Aires",
+        "Latitud": -34.6917,
+        "Longitud": -58.3333
+    },
+    {
+        "Localidad": "Los Polvorines",
+        "Provincia": "Buenos Aires",
+        "Latitud": -34.5,
+        "Longitud": -58.7
+    },
+    {
+        "Localidad": "Sarand\u00ed",
+        "Provincia": "Buenos Aires",
+        "Latitud": -34.6833,
+        "Longitud": -58.3333
+    },
+    {
+        "Localidad": "Hurlingham",
+        "Provincia": "Buenos Aires",
+        "Latitud": -34.6,
+        "Longitud": -58.6333
+    },
+    {
+        "Localidad": "Gar\u00edn",
+        "Provincia": "Buenos Aires",
+        "Latitud": -34.4167,
+        "Longitud": -58.75
+    },
+    {
+        "Localidad": "El Palomar",
+        "Provincia": "Buenos Aires",
+        "Latitud": -34.6167,
+        "Longitud": -58.5833
+    },
+    {
+        "Localidad": "Beccar",
+        "Provincia": "Buenos Aires",
+        "Latitud": -34.4667,
+        "Longitud": -58.5167
+    },
+    {
+        "Localidad": "Punta Alta",
+        "Provincia": "Buenos Aires",
+        "Latitud": -38.88,
+        "Longitud": -62.075
+    },
+    {
+        "Localidad": "Chivilcoy",
+        "Provincia": "Buenos Aires",
+        "Latitud": -34.9,
+        "Longitud": -60.0167
+    },
+    {
+        "Localidad": "Glew",
+        "Provincia": "Buenos Aires",
+        "Latitud": -34.8833,
+        "Longitud": -58.3833
+    },
+    {
+        "Localidad": "Tres Arroyos",
+        "Provincia": "Buenos Aires",
+        "Latitud": -38.3667,
+        "Longitud": -60.2667
+    },
+    {
+        "Localidad": "Rafael Calzada",
+        "Provincia": "Buenos Aires",
+        "Latitud": -34.7833,
+        "Longitud": -58.3667
+    },
+    {
+        "Localidad": "Azul",
+        "Provincia": "Buenos Aires",
+        "Latitud": -36.7833,
+        "Longitud": -59.85
+    },
+    {
+        "Localidad": "Bel\u00e9n de Escobar",
+        "Provincia": "Buenos Aires",
+        "Latitud": -34.3333,
+        "Longitud": -58.8167
+    },
+    {
+        "Localidad": "Ensenada",
+        "Provincia": "Buenos Aires",
+        "Latitud": -34.8644,
+        "Longitud": -57.9103
+    },
+    {
+        "Localidad": "Mariano Acosta",
+        "Provincia": "Buenos Aires",
+        "Latitud": -34.7167,
+        "Longitud": -58.7833
+    },
+    {
+        "Localidad": "Guernica",
+        "Provincia": "Buenos Aires",
+        "Latitud": -34.9167,
+        "Longitud": -58.3833
+    },
+    {
+        "Localidad": "Ensenada Berisso",
+        "Provincia": "Buenos Aires",
+        "Latitud": -34.8667,
+        "Longitud": -57.9
+    },
+    {
+        "Localidad": "El Talar de Pacheco",
+        "Provincia": "Buenos Aires",
+        "Latitud": -34.4719,
+        "Longitud": -58.655
+    },
+    {
+        "Localidad": "Florida",
+        "Provincia": "Buenos Aires",
+        "Latitud": -34.5167,
+        "Longitud": -58.5
+    },
+    {
+        "Localidad": "La Reja",
+        "Provincia": "Buenos Aires",
+        "Latitud": -34.6394,
+        "Longitud": -58.8283
+    },
+    {
+        "Localidad": "Longchamps",
+        "Provincia": "Buenos Aires",
+        "Latitud": -34.85,
+        "Longitud": -58.3833
+    },
+    {
+        "Localidad": "Trenque Lauquen",
+        "Provincia": "Buenos Aires",
+        "Latitud": -35.9667,
+        "Longitud": -62.7
+    },
+    {
+        "Localidad": "Balcarce",
+        "Provincia": "Buenos Aires",
+        "Latitud": -37.8456,
+        "Longitud": -58.2578
+    },
+    {
+        "Localidad": "San Vicente",
+        "Provincia": "Buenos Aires",
+        "Latitud": -35.0167,
+        "Longitud": -58.4167
+    },
+    {
+        "Localidad": "San Isidro",
+        "Provincia": "Buenos Aires",
+        "Latitud": -34.4667,
+        "Longitud": -58.5167
+    },
+    {
+        "Localidad": "General Pacheco",
+        "Provincia": "Buenos Aires",
+        "Latitud": -34.45,
+        "Longitud": -58.65
+    },
+    {
+        "Localidad": "Dock Sur",
+        "Provincia": "Buenos Aires",
+        "Latitud": -34.6417,
+        "Longitud": -58.3478
+    },
+    {
+        "Localidad": "Coronel Su\u00e1rez",
+        "Provincia": "Buenos Aires",
+        "Latitud": -37.4667,
+        "Longitud": -61.9333
+    },
+    {
+        "Localidad": "Tolosa",
+        "Provincia": "Buenos Aires",
+        "Latitud": -34.8942,
+        "Longitud": -57.9647
+    },
+    {
+        "Localidad": "Llavallol",
+        "Provincia": "Buenos Aires",
+        "Latitud": -34.7667,
+        "Longitud": -58.3833
+    },
+    {
+        "Localidad": "Tortuguitas",
+        "Provincia": "Buenos Aires",
+        "Latitud": -34.475,
+        "Longitud": -58.7556
+    },
+    {
+        "Localidad": "Claypole",
+        "Provincia": "Buenos Aires",
+        "Latitud": -34.8,
+        "Longitud": -58.3333
+    },
+    {
+        "Localidad": "Villa Alsina",
+        "Provincia": "Buenos Aires",
+        "Latitud": -34.6667,
+        "Longitud": -58.4167
+    },
+    {
+        "Localidad": "Jos\u00e9 M\u00e1rmol",
+        "Provincia": "Buenos Aires",
+        "Latitud": -34.7833,
+        "Longitud": -58.3667
+    },
+    {
+        "Localidad": "Pinamar",
+        "Provincia": "Buenos Aires",
+        "Latitud": -37.1,
+        "Longitud": -56.85
+    },
+    {
+        "Localidad": "Virreyes",
+        "Provincia": "Buenos Aires",
+        "Latitud": -34.45,
+        "Longitud": -58.5333
+    },
+    {
+        "Localidad": "Marcos Paz",
+        "Provincia": "Buenos Aires",
+        "Latitud": -34.7667,
+        "Longitud": -58.8333
+    },
+    {
+        "Localidad": "Ingeniero Pablo Nogu\u00e9s",
+        "Provincia": "Buenos Aires",
+        "Latitud": -34.4667,
+        "Longitud": -58.7667
+    },
+    {
+        "Localidad": "Chacabuco",
+        "Provincia": "Buenos Aires",
+        "Latitud": -34.6333,
+        "Longitud": -60.4667
+    },
+    {
+        "Localidad": "San Antonio de Padua",
+        "Provincia": "Buenos Aires",
+        "Latitud": -34.6667,
+        "Longitud": -58.7
+    },
+    {
+        "Localidad": "Haedo",
+        "Provincia": "Buenos Aires",
+        "Latitud": -34.65,
+        "Longitud": -58.6
+    },
+    {
+        "Localidad": "Nueve de Julio",
+        "Provincia": "Buenos Aires",
+        "Latitud": -35.45,
+        "Longitud": -60.8833
+    },
+    {
+        "Localidad": "Munro",
+        "Provincia": "Buenos Aires",
+        "Latitud": -34.5333,
+        "Longitud": -58.5167
+    },
+    {
+        "Localidad": "Villa Adelina",
+        "Provincia": "Buenos Aires",
+        "Latitud": -34.5167,
+        "Longitud": -58.5333
+    },
+    {
+        "Localidad": "Villa Ballester",
+        "Provincia": "Buenos Aires",
+        "Latitud": -34.5167,
+        "Longitud": -58.5333
+    },
+    {
+        "Localidad": "Chascom\u00fas",
+        "Provincia": "Buenos Aires",
+        "Latitud": -35.575,
+        "Longitud": -58.0089
+    },
+    {
+        "Localidad": "Bragado",
+        "Provincia": "Buenos Aires",
+        "Latitud": -35.1167,
+        "Longitud": -60.5
+    },
+    {
+        "Localidad": "City Bell",
+        "Provincia": "Buenos Aires",
+        "Latitud": -34.85,
+        "Longitud": -58.05
+    },
+    {
+        "Localidad": "Ca\u00f1uelas",
+        "Provincia": "Buenos Aires",
+        "Latitud": -35.0333,
+        "Longitud": -58.7333
+    },
+    {
+        "Localidad": "Avellaneda",
+        "Provincia": "Buenos Aires",
+        "Latitud": -34.6625,
+        "Longitud": -58.3678
+    },
+    {
+        "Localidad": "Pehuaj\u00f3",
+        "Provincia": "Buenos Aires",
+        "Latitud": -35.8,
+        "Longitud": -61.9
+    },
+    {
+        "Localidad": "Lobos",
+        "Provincia": "Buenos Aires",
+        "Latitud": -35.1833,
+        "Longitud": -59.0833
+    },
+    {
+        "Localidad": "Miramar",
+        "Provincia": "Buenos Aires",
+        "Latitud": -38.2667,
+        "Longitud": -57.8333
+    },
+    {
+        "Localidad": "Villa Gesell",
+        "Provincia": "Buenos Aires",
+        "Latitud": -37.25,
+        "Longitud": -56.9833
+    },
+    {
+        "Localidad": "Baradero",
+        "Provincia": "Buenos Aires",
+        "Latitud": -33.8,
+        "Longitud": -59.5167
+    },
+    {
+        "Localidad": "General San Mart\u00edn",
+        "Provincia": "Buenos Aires",
+        "Latitud": -34.5667,
+        "Longitud": -58.5333
+    },
+    {
+        "Localidad": "Adrogue",
+        "Provincia": "Buenos Aires",
+        "Latitud": -34.8,
+        "Longitud": -58.3833
+    },
+    {
+        "Localidad": "Lincoln",
+        "Provincia": "Buenos Aires",
+        "Latitud": -34.85,
+        "Longitud": -61.5167
+    },
+    {
+        "Localidad": "Arrecifes",
+        "Provincia": "Buenos Aires",
+        "Latitud": -34.0667,
+        "Longitud": -60.1167
+    },
+    {
+        "Localidad": "Las Flores",
+        "Provincia": "Buenos Aires",
+        "Latitud": -36.0139,
+        "Longitud": -59.1
+    },
+    {
+        "Localidad": "Mu\u00f1iz",
+        "Provincia": "Buenos Aires",
+        "Latitud": -34.5333,
+        "Longitud": -58.7
+    },
+    {
+        "Localidad": "Dolores",
+        "Provincia": "Buenos Aires",
+        "Latitud": -36.3167,
+        "Longitud": -57.6667
+    },
+    {
+        "Localidad": "Mar de Aj\u00f3",
+        "Provincia": "Buenos Aires",
+        "Latitud": -36.7203,
+        "Longitud": -56.6878
+    },
+    {
+        "Localidad": "Veinticinco de Mayo",
+        "Provincia": "Buenos Aires",
+        "Latitud": -35.4167,
+        "Longitud": -60.1667
+    },
+    {
+        "Localidad": "Col\u00f3n",
+        "Provincia": "Buenos Aires",
+        "Latitud": -33.8833,
+        "Longitud": -61.1
+    },
+    {
+        "Localidad": "San Andr\u00e9s de Giles",
+        "Provincia": "Buenos Aires",
+        "Latitud": -34.4333,
+        "Longitud": -59.4333
+    },
+    {
+        "Localidad": "San Antonio de Areco",
+        "Provincia": "Buenos Aires",
+        "Latitud": -34.25,
+        "Longitud": -59.4667
+    },
+    {
+        "Localidad": "Carlos Casares",
+        "Provincia": "Buenos Aires",
+        "Latitud": -35.6167,
+        "Longitud": -61.3667
+    },
+    {
+        "Localidad": "Brandsen",
+        "Provincia": "Buenos Aires",
+        "Latitud": -35.1667,
+        "Longitud": -58.2167
+    },
+    {
+        "Localidad": "General Juan Madariaga",
+        "Provincia": "Buenos Aires",
+        "Latitud": -37.0167,
+        "Longitud": -57.1333
+    },
+    {
+        "Localidad": "Carmen de Areco",
+        "Provincia": "Buenos Aires",
+        "Latitud": -34.3858,
+        "Longitud": -59.8294
+    },
+    {
+        "Localidad": "General Belgrano",
+        "Provincia": "Buenos Aires",
+        "Latitud": -35.7667,
+        "Longitud": -58.5
+    },
+    {
+        "Localidad": "General Viamonte",
+        "Provincia": "Buenos Aires",
+        "Latitud": -35.0,
+        "Longitud": -61.0333
+    },
+    {
+        "Localidad": "General Las Heras",
+        "Provincia": "Buenos Aires",
+        "Latitud": -34.9333,
+        "Longitud": -58.95
+    },
+    {
+        "Localidad": "Navarro",
+        "Provincia": "Buenos Aires",
+        "Latitud": -35.0167,
+        "Longitud": -59.2667
+    },
+    {
+        "Localidad": "Ramallo",
+        "Provincia": "Buenos Aires",
+        "Latitud": -33.3167,
+        "Longitud": -60.2
+    },
+    {
+        "Localidad": "Capit\u00e1n Sarmiento",
+        "Provincia": "Buenos Aires",
+        "Latitud": -34.1667,
+        "Longitud": -59.7833
+    },
+    {
+        "Localidad": "Roque P\u00e9rez",
+        "Provincia": "Buenos Aires",
+        "Latitud": -35.4167,
+        "Longitud": -59.3167
+    },
+    {
+        "Localidad": "Ranchos",
+        "Provincia": "Buenos Aires",
+        "Latitud": -35.5333,
+        "Longitud": -58.2833
+    },
+    {
+        "Localidad": "Magdalena",
+        "Provincia": "Buenos Aires",
+        "Latitud": -35.0833,
+        "Longitud": -57.5167
+    },
+    {
+        "Localidad": "Capilla del Se\u00f1or",
+        "Provincia": "Buenos Aires",
+        "Latitud": -34.2833,
+        "Longitud": -59.1
+    },
+    {
+        "Localidad": "Alberti",
+        "Provincia": "Buenos Aires",
+        "Latitud": -35.0167,
+        "Longitud": -60.2667
+    },
+    {
+        "Localidad": "Mar del Tuy\u00fa",
+        "Provincia": "Buenos Aires",
+        "Latitud": -36.5333,
+        "Longitud": -56.6667
+    },
+    {
+        "Localidad": "Coronel Vidal",
+        "Provincia": "Buenos Aires",
+        "Latitud": -37.45,
+        "Longitud": -57.7167
+    },
+    {
+        "Localidad": "General Arenales",
+        "Provincia": "Buenos Aires",
+        "Latitud": -34.2833,
+        "Longitud": -61.2833
+    },
+    {
+        "Localidad": "Tandil",
+        "Provincia": "Buenos Aires",
+        "Latitud": -37.3167,
+        "Longitud": -59.1333
+    },
+    {
+        "Localidad": "Olivos",
+        "Provincia": "Buenos Aires",
+        "Latitud": -34.5075,
+        "Longitud": -58.487
+    },
+    {
+        "Localidad": "Tigre",
+        "Provincia": "Buenos Aires",
+        "Latitud": -34.5,
+        "Longitud": -58.6167
+    },
+    {
+        "Localidad": "Monte Hermoso",
+        "Provincia": "Buenos Aires",
+        "Latitud": -38.9167,
+        "Longitud": -61.55
+    },
+    {
+        "Localidad": "Salto",
+        "Provincia": "Buenos Aires",
+        "Latitud": -34.2929,
+        "Longitud": -60.2546
+    },
+    {
+        "Localidad": "San Miguel del Monte",
+        "Provincia": "Buenos Aires",
+        "Latitud": -35.4396,
+        "Longitud": -58.8067
+    },
+    {
+        "Localidad": "Saladillo",
+        "Provincia": "Buenos Aires",
+        "Latitud": -35.6371,
+        "Longitud": -59.7779
+    },
+    {
+        "Localidad": "Suipacha",
+        "Provincia": "Buenos Aires",
+        "Latitud": -34.7702,
+        "Longitud": -59.6878
+    },
+    {
+        "Localidad": "Rojas",
+        "Provincia": "Buenos Aires",
+        "Latitud": -34.1953,
+        "Longitud": -60.735
+    },
+    {
+        "Localidad": "Vedia",
+        "Provincia": "Buenos Aires",
+        "Latitud": -34.4956,
+        "Longitud": -61.5414
+    },
+    {
+        "Localidad": "Salliquel\u00f3",
+        "Provincia": "Buenos Aires",
+        "Latitud": -36.7522,
+        "Longitud": -62.9605
+    },
+    {
+        "Localidad": "San Carlos de Bol\u00edvar",
+        "Provincia": "Buenos Aires",
+        "Latitud": -36.25,
+        "Longitud": -61.1
+    },
+    {
+        "Localidad": "Buenos Aires",
+        "Provincia": "Buenos Aires, Ciudad Aut\u00f3noma de",
+        "Latitud": -34.6033,
+        "Longitud": -58.3817
+    },
+    {
+        "Localidad": "Villa Celina",
+        "Provincia": "Buenos Aires, Ciudad Aut\u00f3noma de",
+        "Latitud": -34.7167,
+        "Longitud": -58.4833
+    },
+    {
+        "Localidad": "Catamarca",
+        "Provincia": "Catamarca",
+        "Latitud": -28.4667,
+        "Longitud": -65.7833
+    },
+    {
+        "Localidad": "San Isidro",
+        "Provincia": "Catamarca",
+        "Latitud": -28.4333,
+        "Longitud": -65.7167
+    },
+    {
+        "Localidad": "San Jos\u00e9",
+        "Provincia": "Catamarca",
+        "Latitud": -28.3667,
+        "Longitud": -65.7
+    },
+    {
+        "Localidad": "Ba\u00f1ado de Ovanta",
+        "Provincia": "Catamarca",
+        "Latitud": -28.1,
+        "Longitud": -65.3167
+    },
+    {
+        "Localidad": "Resistencia",
+        "Provincia": "Chaco",
+        "Latitud": -27.4514,
+        "Longitud": -58.9867
+    },
+    {
+        "Localidad": "Presidencia Roque S\u00e1enz Pe\u00f1a",
+        "Provincia": "Chaco",
+        "Latitud": -26.7833,
+        "Longitud": -60.45
+    },
+    {
+        "Localidad": "Barranqueras",
+        "Provincia": "Chaco",
+        "Latitud": -27.4833,
+        "Longitud": -58.9333
+    },
+    {
+        "Localidad": "Villa \u00c1ngela",
+        "Provincia": "Chaco",
+        "Latitud": -27.5833,
+        "Longitud": -60.7167
+    },
+    {
+        "Localidad": "Quitilipi",
+        "Provincia": "Chaco",
+        "Latitud": -26.8667,
+        "Longitud": -60.2167
+    },
+    {
+        "Localidad": "Fontana",
+        "Provincia": "Chaco",
+        "Latitud": -27.4167,
+        "Longitud": -59.0333
+    },
+    {
+        "Localidad": "General Jos\u00e9 de San Mart\u00edn",
+        "Provincia": "Chaco",
+        "Latitud": -26.5375,
+        "Longitud": -59.3417
+    },
+    {
+        "Localidad": "Charata",
+        "Provincia": "Chaco",
+        "Latitud": -27.2167,
+        "Longitud": -61.2
+    },
+    {
+        "Localidad": "Tres Isletas",
+        "Provincia": "Chaco",
+        "Latitud": -26.35,
+        "Longitud": -60.4167
+    },
+    {
+        "Localidad": "Las Bre\u00f1as",
+        "Provincia": "Chaco",
+        "Latitud": -27.0667,
+        "Longitud": -61.0667
+    },
+    {
+        "Localidad": "Machagai",
+        "Provincia": "Chaco",
+        "Latitud": -26.9167,
+        "Longitud": -60.0333
+    },
+    {
+        "Localidad": "General Pinedo",
+        "Provincia": "Chaco",
+        "Latitud": -27.3167,
+        "Longitud": -61.2833
+    },
+    {
+        "Localidad": "Villa Berthet",
+        "Provincia": "Chaco",
+        "Latitud": -27.2667,
+        "Longitud": -60.4167
+    },
+    {
+        "Localidad": "San Bernardo",
+        "Provincia": "Chaco",
+        "Latitud": -27.2667,
+        "Longitud": -60.7
+    },
+    {
+        "Localidad": "Campo Largo",
+        "Provincia": "Chaco",
+        "Latitud": -26.8,
+        "Longitud": -60.8333
+    },
+    {
+        "Localidad": "Corzuela",
+        "Provincia": "Chaco",
+        "Latitud": -26.9333,
+        "Longitud": -60.9667
+    },
+    {
+        "Localidad": "La Leonesa",
+        "Provincia": "Chaco",
+        "Latitud": -27.05,
+        "Longitud": -58.7167
+    },
+    {
+        "Localidad": "Puerto Tirol",
+        "Provincia": "Chaco",
+        "Latitud": -27.3667,
+        "Longitud": -59.0667
+    },
+    {
+        "Localidad": "Margarita Bel\u00e9n",
+        "Provincia": "Chaco",
+        "Latitud": -27.2667,
+        "Longitud": -58.9667
+    },
+    {
+        "Localidad": "Colonia Elisa",
+        "Provincia": "Chaco",
+        "Latitud": -26.9167,
+        "Longitud": -59.5167
+    },
+    {
+        "Localidad": "Makall\u00e9",
+        "Provincia": "Chaco",
+        "Latitud": -27.2,
+        "Longitud": -59.2833
+    },
+    {
+        "Localidad": "C\u00f3rdoba",
+        "Provincia": "C\u00f3rdoba",
+        "Latitud": -31.4167,
+        "Longitud": -64.1833
+    },
+    {
+        "Localidad": "R\u00edo Cuarto",
+        "Provincia": "C\u00f3rdoba",
+        "Latitud": -33.1333,
+        "Longitud": -64.35
+    },
+    {
+        "Localidad": "Villa Mar\u00eda",
+        "Provincia": "C\u00f3rdoba",
+        "Latitud": -32.4103,
+        "Longitud": -63.2314
+    },
+    {
+        "Localidad": "Villa Carlos Paz",
+        "Provincia": "C\u00f3rdoba",
+        "Latitud": -31.4,
+        "Longitud": -64.5167
+    },
+    {
+        "Localidad": "San Francisco",
+        "Provincia": "C\u00f3rdoba",
+        "Latitud": -31.4356,
+        "Longitud": -62.0714
+    },
+    {
+        "Localidad": "Cosqu\u00edn",
+        "Provincia": "C\u00f3rdoba",
+        "Latitud": -31.2436,
+        "Longitud": -64.4653
+    },
+    {
+        "Localidad": "Alta Gracia",
+        "Provincia": "C\u00f3rdoba",
+        "Latitud": -31.6667,
+        "Longitud": -64.4333
+    },
+    {
+        "Localidad": "R\u00edo Tercero",
+        "Provincia": "C\u00f3rdoba",
+        "Latitud": -32.1833,
+        "Longitud": -64.1
+    },
+    {
+        "Localidad": "Bell Ville",
+        "Provincia": "C\u00f3rdoba",
+        "Latitud": -32.6333,
+        "Longitud": -62.6833
+    },
+    {
+        "Localidad": "La Calera",
+        "Provincia": "C\u00f3rdoba",
+        "Latitud": -31.3439,
+        "Longitud": -64.3353
+    },
+    {
+        "Localidad": "Jes\u00fas Mar\u00eda",
+        "Provincia": "C\u00f3rdoba",
+        "Latitud": -30.9833,
+        "Longitud": -64.1
+    },
+    {
+        "Localidad": "Cruz del Eje",
+        "Provincia": "C\u00f3rdoba",
+        "Latitud": -30.7333,
+        "Longitud": -64.8
+    },
+    {
+        "Localidad": "Villa Dolores",
+        "Provincia": "C\u00f3rdoba",
+        "Latitud": -31.9333,
+        "Longitud": -65.2
+    },
+    {
+        "Localidad": "Marcos Ju\u00e1rez",
+        "Provincia": "C\u00f3rdoba",
+        "Latitud": -32.7,
+        "Longitud": -62.1
+    },
+    {
+        "Localidad": "Villa del Rosario",
+        "Provincia": "C\u00f3rdoba",
+        "Latitud": -31.5833,
+        "Longitud": -63.5333
+    },
+    {
+        "Localidad": "La Carlota",
+        "Provincia": "C\u00f3rdoba",
+        "Latitud": -33.4333,
+        "Longitud": -63.3
+    },
+    {
+        "Localidad": "Oliva",
+        "Provincia": "C\u00f3rdoba",
+        "Latitud": -32.0333,
+        "Longitud": -63.5667
+    },
+    {
+        "Localidad": "Santa Rosa de R\u00edo Primero",
+        "Provincia": "C\u00f3rdoba",
+        "Latitud": -31.15,
+        "Longitud": -63.3833
+    },
+    {
+        "Localidad": "Villa del Totoral",
+        "Provincia": "C\u00f3rdoba",
+        "Latitud": -30.8167,
+        "Longitud": -63.7167
+    },
+    {
+        "Localidad": "Villa Cura Brochero",
+        "Provincia": "C\u00f3rdoba",
+        "Latitud": -31.6667,
+        "Longitud": -65.0167
+    },
+    {
+        "Localidad": "San Agust\u00edn",
+        "Provincia": "C\u00f3rdoba",
+        "Latitud": -31.9833,
+        "Longitud": -64.3833
+    },
+    {
+        "Localidad": "Dolores",
+        "Provincia": "C\u00f3rdoba",
+        "Latitud": -30.906,
+        "Longitud": -64.5358
+    },
+    {
+        "Localidad": "Corrientes",
+        "Provincia": "Corrientes",
+        "Latitud": -27.4833,
+        "Longitud": -58.8167
+    },
+    {
+        "Localidad": "Goya",
+        "Provincia": "Corrientes",
+        "Latitud": -29.1333,
+        "Longitud": -59.25
+    },
+    {
+        "Localidad": "San Lorenzo",
+        "Provincia": "Corrientes",
+        "Latitud": -28.12,
+        "Longitud": -58.77
+    },
+    {
+        "Localidad": "Paso de los Libres",
+        "Provincia": "Corrientes",
+        "Latitud": -29.7167,
+        "Longitud": -57.0833
+    },
+    {
+        "Localidad": "Gobernador Virasora",
+        "Provincia": "Corrientes",
+        "Latitud": -28.05,
+        "Longitud": -56.0333
+    },
+    {
+        "Localidad": "Bella Vista",
+        "Provincia": "Corrientes",
+        "Latitud": -28.4667,
+        "Longitud": -59.05
+    },
+    {
+        "Localidad": "Monte Caseros",
+        "Provincia": "Corrientes",
+        "Latitud": -30.25,
+        "Longitud": -57.65
+    },
+    {
+        "Localidad": "Santo Tom\u00e9",
+        "Provincia": "Corrientes",
+        "Latitud": -28.55,
+        "Longitud": -56.05
+    },
+    {
+        "Localidad": "Saladas",
+        "Provincia": "Corrientes",
+        "Latitud": -28.25,
+        "Longitud": -58.6167
+    },
+    {
+        "Localidad": "San Luis del Palmar",
+        "Provincia": "Corrientes",
+        "Latitud": -27.5167,
+        "Longitud": -58.5667
+    },
+    {
+        "Localidad": "Empedrado",
+        "Provincia": "Corrientes",
+        "Latitud": -27.9333,
+        "Longitud": -58.7833
+    },
+    {
+        "Localidad": "Santa Luc\u00eda",
+        "Provincia": "Corrientes",
+        "Latitud": -28.9833,
+        "Longitud": -59.1
+    },
+    {
+        "Localidad": "San Roque",
+        "Provincia": "Corrientes",
+        "Latitud": -28.5667,
+        "Longitud": -58.7167
+    },
+    {
+        "Localidad": "Mburucuy\u00e1",
+        "Provincia": "Corrientes",
+        "Latitud": -28.05,
+        "Longitud": -58.2333
+    },
+    {
+        "Localidad": "Itat\u00ed",
+        "Provincia": "Corrientes",
+        "Latitud": -27.2667,
+        "Longitud": -58.25
+    },
+    {
+        "Localidad": "San Cosme",
+        "Provincia": "Corrientes",
+        "Latitud": -27.5167,
+        "Longitud": -58.5667
+    },
+    {
+        "Localidad": "Esquina",
+        "Provincia": "Corrientes",
+        "Latitud": -30.0144,
+        "Longitud": -59.5272
+    },
+    {
+        "Localidad": "Paran\u00e1",
+        "Provincia": "Entre R\u00edos",
+        "Latitud": -31.7331,
+        "Longitud": -60.5297
+    },
+    {
+        "Localidad": "Concordia",
+        "Provincia": "Entre R\u00edos",
+        "Latitud": -31.4,
+        "Longitud": -58.0333
+    },
+    {
+        "Localidad": "Gualeguaych\u00fa",
+        "Provincia": "Entre R\u00edos",
+        "Latitud": -33.0167,
+        "Longitud": -58.5167
+    },
+    {
+        "Localidad": "Concepci\u00f3n del Uruguay",
+        "Provincia": "Entre R\u00edos",
+        "Latitud": -32.4833,
+        "Longitud": -58.2333
+    },
+    {
+        "Localidad": "Villaguay",
+        "Provincia": "Entre R\u00edos",
+        "Latitud": -31.85,
+        "Longitud": -59.0167
+    },
+    {
+        "Localidad": "Chajar\u00ed",
+        "Provincia": "Entre R\u00edos",
+        "Latitud": -30.7667,
+        "Longitud": -57.9833
+    },
+    {
+        "Localidad": "Gualeguay",
+        "Provincia": "Entre R\u00edos",
+        "Latitud": -33.15,
+        "Longitud": -59.3333
+    },
+    {
+        "Localidad": "La Paz",
+        "Provincia": "Entre R\u00edos",
+        "Latitud": -30.75,
+        "Longitud": -59.65
+    },
+    {
+        "Localidad": "Col\u00f3n",
+        "Provincia": "Entre R\u00edos",
+        "Latitud": -32.2167,
+        "Longitud": -58.1333
+    },
+    {
+        "Localidad": "Nogoy\u00e1",
+        "Provincia": "Entre R\u00edos",
+        "Latitud": -32.4,
+        "Longitud": -59.8
+    },
+    {
+        "Localidad": "Diamante",
+        "Provincia": "Entre R\u00edos",
+        "Latitud": -32.0667,
+        "Longitud": -60.65
+    },
+    {
+        "Localidad": "Federaci\u00f3n",
+        "Provincia": "Entre R\u00edos",
+        "Latitud": -30.9833,
+        "Longitud": -57.9167
+    },
+    {
+        "Localidad": "Rosario del Tala",
+        "Provincia": "Entre R\u00edos",
+        "Latitud": -32.3,
+        "Longitud": -59.1333
+    },
+    {
+        "Localidad": "San Salvador",
+        "Provincia": "Entre R\u00edos",
+        "Latitud": -31.6167,
+        "Longitud": -58.5
+    },
+    {
+        "Localidad": "Formosa",
+        "Provincia": "Formosa",
+        "Latitud": -26.1833,
+        "Longitud": -58.1833
+    },
+    {
+        "Localidad": "Piran\u00e9",
+        "Provincia": "Formosa",
+        "Latitud": -25.7328,
+        "Longitud": -59.11
+    },
+    {
+        "Localidad": "Clorinda",
+        "Provincia": "Formosa",
+        "Latitud": -25.2833,
+        "Longitud": -57.7167
+    },
+    {
+        "Localidad": "San Salvador de Jujuy",
+        "Provincia": "Jujuy",
+        "Latitud": -24.1833,
+        "Longitud": -65.3
+    },
+    {
+        "Localidad": "San Pedro",
+        "Provincia": "Jujuy",
+        "Latitud": -24.2196,
+        "Longitud": -64.87
+    },
+    {
+        "Localidad": "Palpal\u00e1",
+        "Provincia": "Jujuy",
+        "Latitud": -24.25,
+        "Longitud": -65.1167
+    },
+    {
+        "Localidad": "Libertador General San Mart\u00edn",
+        "Provincia": "Jujuy",
+        "Latitud": -23.8,
+        "Longitud": -64.7833
+    },
+    {
+        "Localidad": "La Quiaca",
+        "Provincia": "Jujuy",
+        "Latitud": -22.1042,
+        "Longitud": -65.5972
+    },
+    {
+        "Localidad": "Tilcara",
+        "Provincia": "Jujuy",
+        "Latitud": -23.5667,
+        "Longitud": -65.3667
+    },
+    {
+        "Localidad": "El Carmen",
+        "Provincia": "Jujuy",
+        "Latitud": -24.3875,
+        "Longitud": -65.2592
+    },
+    {
+        "Localidad": "San Antonio",
+        "Provincia": "Jujuy",
+        "Latitud": -24.3675,
+        "Longitud": -65.3353
+    },
+    {
+        "Localidad": "Santa Rosa",
+        "Provincia": "La Pampa",
+        "Latitud": -36.6167,
+        "Longitud": -64.2833
+    },
+    {
+        "Localidad": "General Pico",
+        "Provincia": "La Pampa",
+        "Latitud": -35.6667,
+        "Longitud": -63.7333
+    },
+    {
+        "Localidad": "Realic\u00f3",
+        "Provincia": "La Pampa",
+        "Latitud": -35.0389,
+        "Longitud": -64.2472
+    },
+    {
+        "Localidad": "Macach\u00edn",
+        "Provincia": "La Pampa",
+        "Latitud": -37.15,
+        "Longitud": -63.65
+    },
+    {
+        "Localidad": "Posadas",
+        "Provincia": "Misiones",
+        "Latitud": -27.3667,
+        "Longitud": -55.9
+    },
+    {
+        "Localidad": "Puerto Iguaz\u00fa",
+        "Provincia": "Misiones",
+        "Latitud": -25.6,
+        "Longitud": -54.5667
+    },
+    {
+        "Localidad": "Ober\u00e1",
+        "Provincia": "Misiones",
+        "Latitud": -27.4833,
+        "Longitud": -55.1333
+    },
+    {
+        "Localidad": "Eldorado",
+        "Provincia": "Misiones",
+        "Latitud": -26.4,
+        "Longitud": -54.6333
+    },
+    {
+        "Localidad": "Ap\u00f3stoles",
+        "Provincia": "Misiones",
+        "Latitud": -27.9167,
+        "Longitud": -55.7667
+    },
+    {
+        "Localidad": "Arist\u00f3bulo del Valle",
+        "Provincia": "Misiones",
+        "Latitud": -27.1167,
+        "Longitud": -54.9167
+    },
+    {
+        "Localidad": "Garup\u00e1",
+        "Provincia": "Misiones",
+        "Latitud": -27.4833,
+        "Longitud": -55.8333
+    },
+    {
+        "Localidad": "Jard\u00edn Am\u00e9rica",
+        "Provincia": "Misiones",
+        "Latitud": -27.05,
+        "Longitud": -55.2333
+    },
+    {
+        "Localidad": "Leandro N. Alem",
+        "Provincia": "Misiones",
+        "Latitud": -27.6,
+        "Longitud": -55.3333
+    },
+    {
+        "Localidad": "Candelaria",
+        "Provincia": "Misiones",
+        "Latitud": -27.4594,
+        "Longitud": -55.7453
+    },
+    {
+        "Localidad": "Puerto Rico",
+        "Provincia": "Misiones",
+        "Latitud": -26.8,
+        "Longitud": -55.0167
+    },
+    {
+        "Localidad": "Bernardo de Irigoyen",
+        "Provincia": "Misiones",
+        "Latitud": -26.25,
+        "Longitud": -53.9833
+    },
+    {
+        "Localidad": "San Ignacio",
+        "Provincia": "Misiones",
+        "Latitud": -27.2583,
+        "Longitud": -55.5392
+    },
+    {
+        "Localidad": "Alba Posse",
+        "Provincia": "Misiones",
+        "Latitud": -27.55,
+        "Longitud": -54.7
+    },
+    {
+        "Localidad": "Campo Grande",
+        "Provincia": "Misiones",
+        "Latitud": -27.2167,
+        "Longitud": -54.9667
+    },
+    {
+        "Localidad": "Puerto Esperanza",
+        "Provincia": "Misiones",
+        "Latitud": -26.0167,
+        "Longitud": -54.65
+    },
+    {
+        "Localidad": "Santa Ana",
+        "Provincia": "Misiones",
+        "Latitud": -27.35,
+        "Longitud": -55.6
+    },
+    {
+        "Localidad": "San Javier",
+        "Provincia": "Misiones",
+        "Latitud": -27.8739,
+        "Longitud": -55.1347
+    },
+    {
+        "Localidad": "El Soberbio",
+        "Provincia": "Misiones",
+        "Latitud": -27.3,
+        "Longitud": -54.2167
+    },
+    {
+        "Localidad": "Montecarlo",
+        "Provincia": "Misiones",
+        "Latitud": -26.5667,
+        "Longitud": -54.7833
+    },
+    {
+        "Localidad": "Concepci\u00f3n de la Sierra",
+        "Provincia": "Misiones",
+        "Latitud": -27.9833,
+        "Longitud": -55.5167
+    },
+    {
+        "Localidad": "San Pedro",
+        "Provincia": "Misiones",
+        "Latitud": -26.6292,
+        "Longitud": -54.1133
+    },
+    {
+        "Localidad": "Salta",
+        "Provincia": "Salta",
+        "Latitud": -24.7833,
+        "Longitud": -65.4167
+    },
+    {
+        "Localidad": "San Ram\u00f3n de la Nueva Or\u00e1n",
+        "Provincia": "Salta",
+        "Latitud": -23.1333,
+        "Longitud": -64.3333
+    },
+    {
+        "Localidad": "Tartagal",
+        "Provincia": "Salta",
+        "Latitud": -22.5,
+        "Longitud": -63.8333
+    },
+    {
+        "Localidad": "General Mart\u00edn Miguel de G\u00fcemes",
+        "Provincia": "Salta",
+        "Latitud": -24.6667,
+        "Longitud": -65.05
+    },
+    {
+        "Localidad": "Pichanal",
+        "Provincia": "Salta",
+        "Latitud": -23.3167,
+        "Longitud": -64.2167
+    },
+    {
+        "Localidad": "Rosario de Lerma",
+        "Provincia": "Salta",
+        "Latitud": -24.9833,
+        "Longitud": -65.5833
+    },
+    {
+        "Localidad": "Cerrillos",
+        "Provincia": "Salta",
+        "Latitud": -24.9,
+        "Longitud": -65.4833
+    },
+    {
+        "Localidad": "Cafayate",
+        "Provincia": "Salta",
+        "Latitud": -26.0833,
+        "Longitud": -65.9667
+    },
+    {
+        "Localidad": "Chicoana",
+        "Provincia": "Salta",
+        "Latitud": -25.1,
+        "Longitud": -65.55
+    },
+    {
+        "Localidad": "La Caldera",
+        "Provincia": "Salta",
+        "Latitud": -24.6,
+        "Longitud": -65.3833
+    },
+    {
+        "Localidad": "Met\u00e1n",
+        "Provincia": "Salta",
+        "Latitud": -25.499,
+        "Longitud": -64.9739
+    },
+    {
+        "Localidad": "San Luis",
+        "Provincia": "San Luis",
+        "Latitud": -33.3,
+        "Longitud": -66.3333
+    },
+    {
+        "Localidad": "Villa Mercedes",
+        "Provincia": "San Luis",
+        "Latitud": -33.6667,
+        "Longitud": -65.4667
+    },
+    {
+        "Localidad": "Santa Rosa del Conlara",
+        "Provincia": "San Luis",
+        "Latitud": -32.3428,
+        "Longitud": -65.2089
+    },
+    {
+        "Localidad": "Concar\u00e1n",
+        "Provincia": "San Luis",
+        "Latitud": -32.5667,
+        "Longitud": -65.25
+    },
+    {
+        "Localidad": "Rosario",
+        "Provincia": "Santa Fe",
+        "Latitud": -32.9575,
+        "Longitud": -60.6394
+    },
+    {
+        "Localidad": "Santa Fe",
+        "Provincia": "Santa Fe",
+        "Latitud": -31.6333,
+        "Longitud": -60.7
+    },
+    {
+        "Localidad": "Rafaela",
+        "Provincia": "Santa Fe",
+        "Latitud": -31.2667,
+        "Longitud": -61.4833
+    },
+    {
+        "Localidad": "Gobernador G\u00e1lvez",
+        "Provincia": "Santa Fe",
+        "Latitud": -33.0256,
+        "Longitud": -60.6336
+    },
+    {
+        "Localidad": "Reconquista",
+        "Provincia": "Santa Fe",
+        "Latitud": -29.2333,
+        "Longitud": -59.9333
+    },
+    {
+        "Localidad": "Santo Tom\u00e9",
+        "Provincia": "Santa Fe",
+        "Latitud": -31.6667,
+        "Longitud": -60.7667
+    },
+    {
+        "Localidad": "Villa Constituci\u00f3n",
+        "Provincia": "Santa Fe",
+        "Latitud": -33.2333,
+        "Longitud": -60.3333
+    },
+    {
+        "Localidad": "San Lorenzo",
+        "Provincia": "Santa Fe",
+        "Latitud": -32.75,
+        "Longitud": -60.7333
+    },
+    {
+        "Localidad": "Esperanza",
+        "Provincia": "Santa Fe",
+        "Latitud": -31.4167,
+        "Longitud": -60.9333
+    },
+    {
+        "Localidad": "Granadero Baigorria",
+        "Provincia": "Santa Fe",
+        "Latitud": -32.85,
+        "Longitud": -60.7
+    },
+    {
+        "Localidad": "Casilda",
+        "Provincia": "Santa Fe",
+        "Latitud": -33.05,
+        "Longitud": -61.1667
+    },
+    {
+        "Localidad": "Capit\u00e1n Berm\u00fadez",
+        "Provincia": "Santa Fe",
+        "Latitud": -32.8167,
+        "Longitud": -60.7167
+    },
+    {
+        "Localidad": "Ca\u00f1ada de G\u00f3mez",
+        "Provincia": "Santa Fe",
+        "Latitud": -32.8167,
+        "Longitud": -61.4
+    },
+    {
+        "Localidad": "P\u00e9rez",
+        "Provincia": "Santa Fe",
+        "Latitud": -33.0,
+        "Longitud": -60.7667
+    },
+    {
+        "Localidad": "Firmat",
+        "Provincia": "Santa Fe",
+        "Latitud": -33.45,
+        "Longitud": -61.4833
+    },
+    {
+        "Localidad": "San Justo",
+        "Provincia": "Santa Fe",
+        "Latitud": -30.7833,
+        "Longitud": -60.5833
+    },
+    {
+        "Localidad": "Coronda",
+        "Provincia": "Santa Fe",
+        "Latitud": -31.9667,
+        "Longitud": -60.9167
+    },
+    {
+        "Localidad": "Las Rosas",
+        "Provincia": "Santa Fe",
+        "Latitud": -32.4833,
+        "Longitud": -61.5833
+    },
+    {
+        "Localidad": "Sastre",
+        "Provincia": "Santa Fe",
+        "Latitud": -31.75,
+        "Longitud": -61.8333
+    },
+    {
+        "Localidad": "Melincu\u00e9",
+        "Provincia": "Santa Fe",
+        "Latitud": -33.65,
+        "Longitud": -61.45
+    },
+    {
+        "Localidad": "Santiago del Estero",
+        "Provincia": "Santiago del Estero",
+        "Latitud": -27.7833,
+        "Longitud": -64.2667
+    },
+    {
+        "Localidad": "La Banda",
+        "Provincia": "Santiago del Estero",
+        "Latitud": -27.7333,
+        "Longitud": -64.25
+    },
+    {
+        "Localidad": "Termas de R\u00edo Hondo",
+        "Provincia": "Santiago del Estero",
+        "Latitud": -27.4833,
+        "Longitud": -64.8667
+    },
+    {
+        "Localidad": "Arraga",
+        "Provincia": "Santiago del Estero",
+        "Latitud": -28.0667,
+        "Longitud": -64.2333
+    },
+    {
+        "Localidad": "Fern\u00e1ndez",
+        "Provincia": "Santiago del Estero",
+        "Latitud": -27.9167,
+        "Longitud": -63.8833
+    },
+    {
+        "Localidad": "San Miguel de Tucum\u00e1n",
+        "Provincia": "Tucum\u00e1n",
+        "Latitud": -26.8167,
+        "Longitud": -65.2167
+    },
+    {
+        "Localidad": "Banda del R\u00edo Sal\u00ed",
+        "Provincia": "Tucum\u00e1n",
+        "Latitud": -26.85,
+        "Longitud": -65.1667
+    },
+    {
+        "Localidad": "Yerba Buena",
+        "Provincia": "Tucum\u00e1n",
+        "Latitud": -26.8167,
+        "Longitud": -65.3167
+    },
+    {
+        "Localidad": "Concepci\u00f3n",
+        "Provincia": "Tucum\u00e1n",
+        "Latitud": -27.3333,
+        "Longitud": -65.5833
+    },
+    {
+        "Localidad": "Taf\u00ed Viejo",
+        "Provincia": "Tucum\u00e1n",
+        "Latitud": -26.7333,
+        "Longitud": -65.2667
+    },
+    {
+        "Localidad": "Aguilares",
+        "Provincia": "Tucum\u00e1n",
+        "Latitud": -27.4333,
+        "Longitud": -65.6167
+    },
+    {
+        "Localidad": "Monteros",
+        "Provincia": "Tucum\u00e1n",
+        "Latitud": -27.1667,
+        "Longitud": -65.5
+    },
+    {
+        "Localidad": "Famaill\u00e1",
+        "Provincia": "Tucum\u00e1n",
+        "Latitud": -27.05,
+        "Longitud": -65.4
+    },
+    {
+        "Localidad": "San Isidro de Lules",
+        "Provincia": "Tucum\u00e1n",
+        "Latitud": -26.9333,
+        "Longitud": -65.35
+    },
+    {
+        "Localidad": "Bella Vista",
+        "Provincia": "Tucum\u00e1n",
+        "Latitud": -27.0333,
+        "Longitud": -65.3
+    },
+    {
+        "Localidad": "Simoca",
+        "Provincia": "Tucum\u00e1n",
+        "Latitud": -27.2667,
+        "Longitud": -65.3333
+    },
+    {
+        "Localidad": "Villa Alberdi",
+        "Provincia": "Tucum\u00e1n",
+        "Latitud": -27.5859,
+        "Longitud": -65.6204
+    },
+    {
+        "Localidad": "La Cocha",
+        "Provincia": "Tucum\u00e1n",
+        "Latitud": -27.77,
+        "Longitud": -65.5858
+    },
+    {
+        "Localidad": "Burruyac\u00fa",
+        "Provincia": "Tucum\u00e1n",
+        "Latitud": -26.5,
+        "Longitud": -64.75
+    },
+    {
+        "Localidad": "Graneros",
+        "Provincia": "Tucum\u00e1n",
+        "Latitud": -27.65,
+        "Longitud": -65.45
+    }
+]
